@@ -25,6 +25,6 @@ async function postData(){
     console.log("data " ,data)
 }
 
-// getData();
+getData();
 
 postData();
